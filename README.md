@@ -1,6 +1,6 @@
 # Banking System Project
 
-A simple **Banking System** built in **C**, designed to handle basic banking operations such as account creation, deposits, withdrawals, and transaction history. This project simulates a real-world banking system where users can manage their accounts and perform financial transactions.
+ **Banking System** built in **C**, designed to handle basic banking operations such as account creation, deposits, withdrawals, and transaction history. This project simulates a real-world banking system where users can manage their accounts and perform financial transactions.
 
 ---
 
