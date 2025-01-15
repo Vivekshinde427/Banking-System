@@ -15,3 +15,16 @@ A  banking system built in **C**, allowing users to create accounts, deposit/wit
 
 Below is a brief demonstration of how the banking system works.
 
+
+## Installation Instructions
+
+### Prerequisites
+
+To compile and run the program, you need the **GCC Compiler** or any C compiler.
+
+### Clone the Repository
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Vivekshinde427/Banking-System.git
